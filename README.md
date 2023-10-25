@@ -72,22 +72,22 @@
 ![](https://github.com/VictorSum/Dip/blob/tree/main/img/tresholds_3.png)
 
 Заходим в Kibana. ip 84.201.170.82:5601
-![](https://github.com/VictorSum/Dip/blob/tree/main/img/kibana_1.png)
+![](https://github.com/VictorSum/Dip/blob/main/img/kibana_1.png)
 
-![](https://github.com/VictorSum/Dip/blob/tree/main/img/kibana_2.png)
+![](https://github.com/VictorSum/Dip/blob/main/img/kibana_2.png)
 
-![](https://github.com/VictorSum/Dip/blob/tree/main/img/kibana_3.png)
+![](https://github.com/VictorSum/Dip/blob/main/img/kibana_3.png)
 
 # 6. Резервное копирование. 
 Создаем snapshot дисков всех ВМ. Ограничиваем время жизни snaphot в неделю. Сами snaphot настраиваем на ежедневное копирование.
 Расписание.
-![](https://github.com/VictorSum/Dip/blob/tree/main/img/snapshot.png)
+![](https://github.com/VictorSum/Dip/blob/main/img/snapshot.png)
 
 # Правки: [main.tf](https://github.com/AlexanderSomkin/diplom/blob/main/main.tf)
 
 Автоматизация дашбордов: 
 
-![](https://github.com/VictorSum/Dip/tree/main/img/640f030c-f0e7-489b-bd12-690a01629f51.jpg)
+![](https://github.com/VictorSum/Dip/main/img/640f030c-f0e7-489b-bd12-690a01629f51.jpg)
 
 
 
