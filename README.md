@@ -16,7 +16,7 @@
 # Балансировщик:
 ![balancer](https://github.com/VictorSum/Dip/blob/main/img/balancer_1.png)
 # Целевые группы:
-![targetgroups](https://github.com/VictorSum/Dip/main/img/balancer_2.png)
+![targetgroups](https://github.com/VictorSum/Dip/blob/main/img/balancer_2.png)
 # Группы безопасности:
 ![backendgroups](https://github.com/VictorSum/Dip/blob/main/img/security.png)
 # 2. Далее с помощью ansible проверяем доступность узлов ansible –i inventory.ini all -m ping.
